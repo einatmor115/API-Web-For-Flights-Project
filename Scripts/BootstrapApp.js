@@ -1,0 +1,1 @@
+﻿const module = angular.module("MyApp", [])
